@@ -10,6 +10,5 @@ function findMax(numbers) {
     }
     return max;
 }
-
 console.log(findMax([3, 5, 7, 2, 8])); 
 console.log(findMax([]));
